@@ -2,7 +2,9 @@
 A collection of coding styles for each language.
 
 - [Coding Styles](#coding-styles)
+	- [Android](#android)
 	- [C](#c)
+  	- [Java](#java)
   	- [PHP](#php)
 	- [Python](#python)
   	- [Ruby](#ruby)
@@ -10,11 +12,25 @@ A collection of coding styles for each language.
 
 - - -
 
+
+## Android
+
+*[Android](http://developer.android.com/index.html) runs on hundreds of millions of handheld devices around the world.*
+
+* [Code Style Guidelines for Contributors](https://source.android.com/source/code-style.html)
+
 ## C
 
 *Well-known C Programming Language.*
 
 * [Linux kernel coding style](https://www.kernel.org/doc/Documentation/CodingStyle)
+
+## Java
+
+*"[Java](https://www.oracle.com/java/index.html) is the world's #1 programming languages."*
+
+* [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 
 ## PHP
 
